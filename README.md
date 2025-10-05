@@ -147,7 +147,7 @@ volumes:
 
 ## 🤝 Contribuições
 
-🔹Sinta-se à vontade para:
+Sinta-se à vontade para:
 
 🔹Sugerir melhorias ✨
 
